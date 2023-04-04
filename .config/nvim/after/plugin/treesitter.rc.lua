@@ -26,6 +26,8 @@ ts.setup {
     "dockerfile",
     "python",
     "rust",
+    "javascript",
+    "typescript",
   },
   autotag = {
     enable = true,
